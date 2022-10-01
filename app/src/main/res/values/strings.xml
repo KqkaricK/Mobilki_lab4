@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Такси</string>
+    <string name="phone">Номер телефона</string>
+    <string name="fam">Фамилия</string>
+    <string name="nam">Имя</string>
+    <string name="edit_fam">fam</string>
+    <string name="edit_nam">nam</string>
+    <string name="edit_phone">phone</string>
+    <string name="from">Откуда</string>
+    <string name="to">Куда</string>
+    <string name="street">Улица</string>
+    <string name="dom">Дом</string>
+    <string name="path"> </string>
+</resources>
